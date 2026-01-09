@@ -1,3 +1,3 @@
 - [x] Have a basic overview/understanding of a matching engine
 - [x] Set up the project structure suggested by ChatGPT
-- [v] Ask ChatGPT to give me some boilerplate code
+- [x] Ask ChatGPT to give me some boilerplate code
