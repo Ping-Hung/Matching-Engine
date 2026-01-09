@@ -4,9 +4,9 @@ import sys
 import re
 
 def usage(prog_name: str):
-    print("Usage 1. generate build system with: f{prog_name}")
-    print("Usage 2. run tests with: f{prog_name} test")
-    print("Usage 3. run clean test artifact with: f{prog_name} clean")
+    print(f"1. generate build system with: {prog_name}")
+    print(f"2. run tests with: {prog_name} test")
+    print(f"3. clean up test artifact with: {prog_name} clean")
 
 
 # depending on input argument (sys.argv[1]), either test, build, or cleanup (remove executable) 
