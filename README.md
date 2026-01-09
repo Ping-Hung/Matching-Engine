@@ -7,5 +7,5 @@ A simple matching engine that I aim to build while learning C++ development
 - `Ubuntu-22.04` and `python 3`
 
 # Run Instruction
-simply run `./run.sh` in your terminal
+- Depending on use case, see ![run.sh](run.sh) or run `./run.sh --help` for details
 
